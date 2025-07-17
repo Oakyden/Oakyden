@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alan, an experienced developer mainly with front end technologies, but also not scared to dip into php and nodeJS. I'm currently looking for my next role, so do reach out! In the meantime I'll be enhancing my usage of AI code assistants and my ability to work on backend / fullstack solutions.
+I'm Alan, an experienced developer with past team lead and CTO experience. I am most familiar with front end technologies, but also not scared to dip into php and nodeJS. I'm currently looking for my next role, so do reach out! In the meantime I'll be enhancing my usage of AI code assistants and my ability to work on backend / fullstack solutions.
 
 Here are some ideas to get you started:
 
